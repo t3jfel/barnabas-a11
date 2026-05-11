@@ -1,7 +1,6 @@
 # 💫 About Me:
 I'm currently working on understanding the computers.<br>I'm learning cybersecurity.
 
-
 ## 🌐 Socials:
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@t3jfel) 
 
@@ -11,8 +10,5 @@ I'm currently working on understanding the computers.<br>I'm learning cybersecur
 ![](https://github-readme-stats.shion.dev/api?username=t3jfel&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=t3jfel&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=t3jfel&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=t3jfel&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
