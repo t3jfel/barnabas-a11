@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm currently working on understanding the computers.<br>I'm learning cybersecurity.
 
 ## 🌐 Socials:
